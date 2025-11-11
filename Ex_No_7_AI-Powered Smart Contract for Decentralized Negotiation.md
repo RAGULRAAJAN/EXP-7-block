@@ -1,4 +1,7 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+### NAME: HARITHA RAMESH
+### REG NO:212223100011
+### DEPT: CSE(CYBER SECURITY)
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
@@ -106,16 +109,23 @@ If the offer is too low, the contract suggests a counteroffer.
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
+<img width="1061" height="549" alt="image" src="https://github.com/user-attachments/assets/28fbc8e4-d900-4b5a-b3c8-b38219efb667" />
+
 
 
 Mimics real-world price negotiations using dynamic on-chain pricing.
 
+<img width="1080" height="543" alt="image" src="https://github.com/user-attachments/assets/64b6b212-2893-4a57-9a03-12c69d7a30cc" />
+
 
 Can be extended to AI oracles for real-time market data.
 
+<img width="1131" height="551" alt="image" src="https://github.com/user-attachments/assets/de1ca9f7-917c-4226-a851-d17add53533e" />
+
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
+<img width="1110" height="557" alt="image" src="https://github.com/user-attachments/assets/7bab08bc-054c-48f6-966c-640e6eb7e937" />
+
 
 # RESULT:
-
-
+Thus AI-Powered smart contract for decentralized negotiation is executed successfully.
