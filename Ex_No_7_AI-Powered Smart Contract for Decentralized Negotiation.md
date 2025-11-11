@@ -1,6 +1,6 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
-### NAME: HARITHA RAMESH
-### REG NO:212223100011
+### NAME: RAGUL RAAJAN T
+### REG NO:212223100043
 ### DEPT: CSE(CYBER SECURITY)
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
